@@ -1,5 +1,3 @@
-# README
-
 ## Related Works
 
 ### Work 1: [Solving Differential Equations with Deep Learning: A Beginner’s Guide](https://arxiv.org/abs/2307.11237)
