@@ -17,4 +17,8 @@ Summary: This paper provides a strategy to use PINN (physics-informed neural net
 **Summary:** MathWorks demonstrates solving an ordinary differential equation using a neural network instead of traditional numerical methods. The neural network provides differentiable approximate solutions in a closed analytic form. This work involves generating training data, defining a neural network, and training it with a custom loss function. It compares the neural network's predictions to the analytic solution.  
 **Our Project's Difference:** Since our project also focuses on ODEs, this work serves as an important reference for understanding the training techniques and steps to solve ODEs with neural networks. We can potentially adapt their methods to improve accuracy and efficiency in our own project.
 
-### Work 5: Solving Differential Equations Using Deep Neural Networks  
+### Work 5: [Solving Differential Equations Using Deep Neural Networks](https://www.sciencedirect.com/science/article/abs/pii/S0925231220301909)  
+**Summary:** this work focuses on solving partial differential equations through deep neural networks that optimize equations. This in turn produces an approximate solution to equations, rather than an exact solution, which is suitable for PDEs with irregular solutions.
+
+**Our Project's Difference:**: On the other hand, our project focuses on providing exact solutions or the most simple version of the ordinary differential equations instead of PDEs. Additionally we won’t prioritize just irregular solutions, but rather encompass most if not all types of differential equations, providing a wider range of solutions/approximations that can be produced.
+
